@@ -1,0 +1,6 @@
+flask
+gunicorn
+flask-wtf
+WTForms
+email_validator
+pyodbc
